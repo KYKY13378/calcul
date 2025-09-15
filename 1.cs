@@ -6,7 +6,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Добро пожаловать в Калькулятор!");
+        Console.WriteLine("Калькулятор");
         Console.WriteLine("Доступные операции: +, -, *, /, %, 1/x, x^2, sqrt, M+, M-, MR, C (очистить), E (выход)");
 
         double? lastResult = null; 
